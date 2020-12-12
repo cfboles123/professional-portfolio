@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    padding: 20px 35px;
+    background-color:#414747;
+    display: flex;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #72d8f7;
+    margin: 0;
+}
+header a {
+    color: #72d8f7;
+}
+
+header nav {
+    text-decoration: underline;
+    margin: 7px 0;
+}
+header nav ul li {
+    display: inline;
+}
