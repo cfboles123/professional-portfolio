@@ -163,4 +163,5 @@ header nav a {
 .contact li {
     text-decoration: underline;
     font-size: 18px;
+    font-weight: bold;
 }
